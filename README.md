@@ -106,7 +106,11 @@ npm run preview
 
 ## 📸 Screenshots
 
-> _Add screenshots here after capturing the app._
+<img width="476" height="513" alt="Screenshot 2026-10-26 at 4 15 41 PM" src="https://github.com/user-attachments/assets/516cad89-8c1b-4cb9-8d19-035b629d099f" />
+<img width="1440" height="574" alt="Screenshot 2026-10-26 at 4 15 32 PM" src="https://github.com/user-attachments/assets/5f6c2b3b-e448-4b9f-9004-e7309b247004" />
+<img width="1207" height="706" alt="Screenshot 2026-10-26 at 4 14 43 PM" src="https://github.com/user-attachments/assets/033d8f5e-55df-4c08-9a31-edf234457afa" />
+<img width="1440" height="778" alt="Screenshot 2026-10-26 at 4 14 22 PM" src="https://github.com/user-attachments/assets/08afeff7-af31-4772-a6d5-b0d78f0b01f7" />
+<img width="1440" height="778" alt="Screenshot 2026-10-26 at 4 13 41 PM" src="https://github.com/user-attachments/assets/e276218d-d550-4490-a2f5-de7d2e2fea16" />
 
 | View | Description |
 |---|---|
